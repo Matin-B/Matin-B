@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matin Baloochestani</h1>
 <h3 align="center">A passionate python developer</h3>
 
-<p align="left"> <a href="https://twitter.com/matin__b" target="blank"><img src="https://img.shields.io/twitter/follow/matin__b?logo=twitter&style=for-the-badge" alt="matin__b" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Matin__B" target="_blank"><img src="https://img.shields.io/twitter/follow/matin__b?logo=twitter&style=for-the-badge" alt="matin__b" /></a> </p>
 
 - 💬 Ask me about **Python, Web Scraping**
 
@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Matin__B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matin__b" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/MatinB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matinb" height="30" width="40" /></a>
+<a href="https://twitter.com/Matin__B" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matin__b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/MatinB" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matinb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
