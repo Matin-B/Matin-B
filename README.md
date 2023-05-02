@@ -31,5 +31,5 @@
 
 ### ✍️ Random Dev Quote
 <p align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  <img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=Matin-B&theme=dark&&date_format=Matin-B](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)" />
 </p>
