@@ -30,6 +30,4 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matin-B&theme=github_dark" alt="Kamandlou" /></p>
 
 ### ✍️ Random Dev Quote
-<p align="center">
-  <img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=Matin-B&theme=dark&&date_format=Matin-B](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)" />
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
